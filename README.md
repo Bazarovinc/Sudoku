@@ -32,5 +32,6 @@ or
 ## Examples
 Example №1
 <img align="center" src="https://github.com/Bazarovinc/Sudoku/blob/master/imagies/example_1.jpg" width="50%" heihg="50%"/>
+
 Example №2
 <img align="center" src="https://github.com/Bazarovinc/Sudoku/blob/master/imagies/example_2.jpg" width="50%" heihg="50%"/>
