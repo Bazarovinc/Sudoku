@@ -32,3 +32,6 @@ or
 ## Examples
 <img align="center" src="https://github.com/Bazarovinc/Sudoku/blob/master/imagies/example_1.jpg" width="20%" heihg="20%"/>
 <img align="center" src="https://github.com/Bazarovinc/Sudoku/blob/master/imagies/example_2.jpg" width="20%" heihg="20%"/>
+## Erros
+* If you got `Error`, that means that there is some error in your input of table.
+* If you got `Bad sudoku`, that mean that sudoku have more than one solvetion.
